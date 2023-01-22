@@ -6,6 +6,8 @@ I am a PhD student in the [CriticalEarth](https://www.criticalearth.eu/) project
 
 🐦 Twitter: [@ush_ham](https://twitter.com/ush_ham)
 
+🦣 Mastodon: [@ushham@mastodon.green](https://mastodon.green/@ushham)
+
 <!--
 **ushham/ushham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
