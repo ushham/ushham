@@ -8,6 +8,8 @@ I am a PhD student in the [CriticalEarth](https://www.criticalearth.eu/) project
 
 🦣 Mastodon: [@ushham@mastodon.green](https://mastodon.green/@ushham)
 
+🌐 Website: [oisinhamilton.com](https://oisinhamilton.com)
+
 <!--
 **ushham/ushham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,12 +33,6 @@ Here are some ideas to get you started:
 
 - Temperature multi-stability in low-order coupled ocean-atmosphere models.
 - Numerical methods for calculating Lyapunov exponents and vectors.
+- Atmospheric blocking
 
----
 
-#### Tools
-
-🔭 I’m currently working on ...
-
-- French (Belgian) number learning tool.
-- Calender of your life using flags.
